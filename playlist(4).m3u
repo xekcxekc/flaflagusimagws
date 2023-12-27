@@ -2286,5 +2286,11 @@ http://tv.lightiptv.cc/a92f60e87a35e5f842d95bea85b602e8/video.m3u8?token=ghuewnu
 http://tv.lightiptv.cc/61723a4867c1d17dd9153325d83a3d5d/video.m3u8?token=ghuewnueqk
 #EXTINF:-1 tvg-id="ЯСНАе TV HD" group-title="Беларусь" tvg-logo="https://lighticons.art/storage/images/channels/91088f7996cc3cba305dd8b99373adda.png?d=1697618216" catchup-days="0",ЯСНАе TV HD
 http://tv.lightiptv.cc/91088f7996cc3cba305dd8b99373adda/video.m3u8?token=ghuewnueqk
-#EXTINF:-1 tvg-id=".НВК Саха" group-title="Основные" tvg-logo="https://lighticons.art/storage/images/channels/6e97516280d01bbd76a8f4232c135d83.png?d=1702455150" catchup="default" catchup-days="3" catchup-source="http://tv.lightiptv.cc/6e97516280d01bbd76a8f4232c135d83/video-${start}-${duration}.m3u8?token=ghuewnueqk" timeshift="3",.НВК Саха
+#EXTINF:-1 tvg-id="НВК Саха" group-title="Основные" tvg-logo="https://lighticons.art/storage/images/channels/6e97516280d01bbd76a8f4232c135d83.png?d=1702455150" catchup="default" catchup-days="3" catchup-source="http://tv.lightiptv.cc/6e97516280d01bbd76a8f4232c135d83/video-${start}-${duration}.m3u8?token=ghuewnueqk" timeshift="3",.НВК Саха
 https://live-saha.cdnvideo.ru/saha2/saha_live.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+#EXTINF:-1 tvg-id="NickToons (PL)" group-title="Nick" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nicktoons_2023_outline.png" catchup="default" catchup-days="3" catchup-source="http://tv.lightiptv.cc/6e97516280d01bbd76a8f4232c135d83/video-${start}-${duration}.m3u8?token=ghuewnueqk" timeshift="3",.NickToons (PL)
+https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon (PL)" group-title="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" catchup="default" catchup-days="3" catchup-source="http://tv.lightiptv.cc/6e97516280d01bbd76a8f4232c135d83/video-${start}-${duration}.m3u8?token=ghuewnueqk" timeshift="3",.Nickelodeon (PL)
+https://cdn-main.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NickToons UA RU" group-title="Nick" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nicktoons_2023_outline.png" catchup="default" catchup-days="3" catchup-source="http://tv.lightiptv.cc/6e97516280d01bbd76a8f4232c135d83/video-${start}-${duration}.m3u8?token=ghuewnueqk" timeshift="3",.NickToons UA RU
+https://stream01.vnet.am/Boomerang/mono.m3u8
